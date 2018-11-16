@@ -7,6 +7,6 @@
 <title>Welcome JSP</title>
 </head>
 <body>
-<%="Welcome to JSP"%>
+<%="Welcome to JSP1"%>
 </body>
 </html>
